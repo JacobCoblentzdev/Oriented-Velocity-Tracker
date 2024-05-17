@@ -20,4 +20,4 @@ Max acceleration
  if ( rotated_z_acceleration > fastestaccel){
         fastestaccel = rotated_z_acceleration;
       }  
-![image](https://github.com/JacobCoblentzdev/Oriented-Velocity-Tracker/assets/170132280/669eb7ef-2598-4278-a930-c02ea360af27)
+
